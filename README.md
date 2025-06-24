@@ -50,4 +50,5 @@ olist_project/
 ## 📖 Full Walkthrough
 
 Want to see the full step-by-step breakdown?  
-👉 [Read the detailed blog post on Medium](#) *(replace with your link)*
+👉 [Read the detailed blog post on Medium](https://medium.com/@akshathakulal/building-an-end-to-end-data-pipeline-with-snowflake-dbt-tableau-using-olist-ecommerce-data-7b824d01c07f)
+
