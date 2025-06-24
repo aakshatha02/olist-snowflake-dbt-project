@@ -43,6 +43,7 @@ olist_project/
 │       └── ...
 ├── dbt_project.yml
 └── README.md
+```
 
 👀 Dashboard screenshot in `Tableau_Dashboard Screenshot.png`
 
